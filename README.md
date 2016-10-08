@@ -1,3 +1,3 @@
 # AlgorithmsCodeChef
 
-This is repo for basic algorithm which will be helpful for beginners.
+This is repository for basic algorithm which will be helpful for beginners.
